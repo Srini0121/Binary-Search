@@ -1,4 +1,4 @@
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+
 
 # Binary Search Tree
 - Differ from a regular Binary Tree because of one key property: Nodes must be arranged in order
