@@ -19,5 +19,4 @@
   - tree.remove(1) _removes 1 from our current tree, resulting 4 to be the sole node_
   - Maintains BST properties by restructuring the tree when we remove the value
   - returns a string telling if deletion was or wasn't successful
-# Author
-[Tomas Urdinola](https://github.com/tomurdi)
+
